@@ -42,8 +42,7 @@ public class PhoneApp {
 			
 			pList.add(b);
 		}
-		
-		
+	
 		
 		 System.out.println("****************************");
 		 System.out.println("*     전화번호 관리 프로그램     *");
@@ -135,22 +134,11 @@ public class PhoneApp {
 			 }else {
 				 System.out.println("다시입력해주세요.");
 			 }
-			
-			
-			 
-			 
-	
-			
-			
-			
-			
-			 
+				 
 			 
 		 }
-		
-		 
-		
-		
+	br.close();
+	sc.close();
 	}
-
+	
 }
