@@ -56,13 +56,12 @@ public class phone {
 	}
 	
 	public void showInfo() {
-		System.out.println(name + hp + company);
+		System.out.println("\t"+name +"\t"+ hp + "\t" + company);
 	}
 	
 	public String enroll() {
 		return name+","+hp+","+company ;
 	}
-
 
 	
 	
